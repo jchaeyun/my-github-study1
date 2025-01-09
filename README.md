@@ -2,3 +2,4 @@
 this is for my github study
 READ.md
 conflict resolution
+new edited
